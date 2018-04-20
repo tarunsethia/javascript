@@ -1,0 +1,38 @@
+html,body{
+margin:0;
+padding:0;height:100%;
+width:100%;}
+.content{
+height:100%;
+width:100%;
+}
+#head{
+height:10%;
+width:100%;
+background-color:blue;
+}
+.center{
+height:80%;
+width:100%;
+
+}
+#left{
+width:20%;
+height:100%;
+background-color:black;
+float: left;
+}
+#right
+{
+width:80%;
+height:100%;
+background-color:red;
+float:left;
+overflow-y: scroll;
+
+}
+#footer{
+height:10% ;
+width:100%;
+background-color:green;
+}

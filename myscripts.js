@@ -61,16 +61,3 @@ function myapplication(){
 	(new myapplication()).init();
 })();
 
-// create a namespace for your js application
-// bind events using addEvent/addEventListener
-// don't use doc.getElementById, or className, or tagName. doc.querySelectorAll
-
-
-// functions vs objects vs array
-// higher order functions
-// types of functions
-// MDN
-//https://eloquentjavascript.net/
-//higher order functions
-// variable and scopes
-// events and event timeline, scope, execution order
